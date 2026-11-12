@@ -1,0 +1,18 @@
+{
+  "svm": {
+    "best_params": {
+      "clf__C": 100,
+      "clf__gamma": 0.01
+    },
+    "best_cv_auc": 0.9944545611307813
+  },
+  "rf": {
+    "best_params": {
+      "clf__max_depth": null,
+      "clf__max_features": "sqrt",
+      "clf__min_samples_split": 5,
+      "clf__n_estimators": 500
+    },
+    "best_cv_auc": 0.9887679002525056
+  }
+}

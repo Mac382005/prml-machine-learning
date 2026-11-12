@@ -1,0 +1,5 @@
+{
+  "name": "Soft Voting (SVM+RF tuned)",
+  "accuracy": 0.9649122807017544,
+  "roc_auc": 0.9983465608465608
+}

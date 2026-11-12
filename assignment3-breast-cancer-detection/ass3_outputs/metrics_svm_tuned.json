@@ -1,0 +1,5 @@
+{
+  "name": "SVM (Tuned)",
+  "accuracy": 0.9912280701754386,
+  "roc_auc": 1.0
+}
